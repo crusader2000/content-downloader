@@ -7,8 +7,6 @@
 
 ![](https://media.giphy.com/media/3oKIPlt7APHqWuVl3q/giphy.gif)
 
-![](https://media.giphy.com/media/xUPGcIvGpH3KvEmlnG/giphy.gif)
-
 ## Features
 
 - ctdl can be used as a command line utility as well as a desktop GUI.
